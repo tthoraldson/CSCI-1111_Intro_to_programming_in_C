@@ -29,5 +29,13 @@ int main()
 }
 
 /* OUTPUT: assignment2.c
-
+                   Name : Theresa Thoraldson
+                 E-mail : theresa.thoraldson@gmail.com
+            High School : Perpich Center for Arts Education
+              Home town : Bloomington, MN
+        Current College : Normandale
+ Current year in school : College Freshman
+                    Age : 22
+           Age in octal : 26
+     Age in hexadecimal : 16
 */
